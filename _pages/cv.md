@@ -29,10 +29,6 @@ Experience
   * Attending lectures in Visual Computing, building a traffic sign recognition pipeline
   * Supervisor: Prof. Terence Sim
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
