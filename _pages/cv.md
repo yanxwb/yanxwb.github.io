@@ -36,7 +36,7 @@ Publications
 
 * Towards Better Evaluation of GNN Expressiveness with BREC Dataset
   * A new GNN expressiveness dataset BREC with advantages in difficulty, granularity and scale.
-  * Arxiv link at [https://arxiv.org/abs/2304.07702](https://arxiv.org/abs/2304.07702). Dataset and evaluation code at [https://arxiv.org/abs/2304.07702](https://github.com/GraphPKU/BREC).
+  * Arxiv link at [https://arxiv.org/abs/2304.07702](https://arxiv.org/abs/2304.07702). Dataset and evaluation code at [https://github.com/GraphPKU/BREC](https://github.com/GraphPKU/BREC).
   * Welcome any suggestions, contributions or collaborations to improve BREC.
 * TwiBot-22: Towards Graph-Based Twitter Bot Detection
   * A comprehensive graph-based Twitter bot detection benchmark.
