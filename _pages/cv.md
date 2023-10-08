@@ -13,17 +13,17 @@ Education
 ======
 
 * Honors Youth Program, Xi'an Jiaotong University, 2017 - 2019
-* B.S. in Computer Science, Xi'an Jiaotong University, 2019 - 2023(expected)
-* Ph.D in Intelligence Science and Technology(Computer Science), Peking University, 2023(expected) -
+* B.S. in Computer Science, Xi'an Jiaotong University, 2019 - 2023
+* Ph.D in Intelligence Science and Technology(Computer Science), Peking University, 2023 - 2028(expected)
 
 Experience
 ======
 
-* GraphPKU Group @ PKU, 2022.7 - Present
+* GraphPKU Group @ PKU, 2022.9 - Present
   * Research in graph neural networks
   * Supervisor: Prof. [Muhan Zhang](https://muhanzhang.github.io/)
 
-* Luo lab Undergraduate Division ([LUD](https://luoundergradxjtu.github.io/)) @ XJTU, 2022.2 - Present
+* Luo lab Undergraduate Division ([LUD](https://luoundergradxjtu.github.io/)) @ XJTU, 2022.2 - 2022.12
   * Attending [Twibot-22](https://twibot22.github.io/"Twibot-22") as project members
   * Supervisor: Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo/home)
 
