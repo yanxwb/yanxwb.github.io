@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanbo Wang"
   avatar           : "profile.jpg"
-  bio              : "Computer Science Undergraduate @ Xi'an Jiaotong University"
-  location         : "Xi'an China"
+  bio              : "Ph.D. Student at Peking University"
+  location         : "Beijing China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Rmo7EXQAAAAJ"
-  email            :  "yanxwb202@gmail.com"
+  email            :  "wangyanbo@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
