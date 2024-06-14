@@ -20,7 +20,7 @@ redirect_from:
 ## Amazon AI Lab, Shanghai
 
 - Remote intern, focusing on Tabular data and Graph Neural Networks (GNN)
-- **Supervisor:** Prof. [Muhan Zhang](https://muhanzhang.github.io/), Assistant Supervisor [Minjie Wang](https://jermainewang.github.io)
+- **Supervisor:** Prof. [Muhan Zhang](https://muhanzhang.github.io/), Applied Scientist [Minjie Wang](https://jermainewang.github.io)
 - **Dates:** November 2023 - Present
 
 ## GraphPKU Group @ Peking University (PKU)
@@ -45,24 +45,26 @@ redirect_from:
 
 ## Efficient Neural Common Neighbor for Temporal Graph Link Prediction
 
-- **Authors:** Xiaohui Zhang, **Yanbo Wang**, Xiyuan Wang, Muhan Zhang
+- **Authors:** Xiaohui Zhang\*, **Yanbo Wang\***, Xiyuan Wang, Muhan Zhang
 - **Description:** This paper presents an efficient method for temporal graph link prediction, achieving state-of-the-art results on a large-scale temporal dataset (TGB).
 - **Link:** [Arxiv](https://arxiv.org/abs/2406.07926)
 
 ## 4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs
 
-- **Authors:** Minjie Wang, Quan Gan, David Wipf, Zhenkun Cai, Ning Li, Jianheng Tang, Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, **Yanbo Wang**, Jiahang Li, Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang, Christos Faloutsos, Zheng Zhang
+- **Authors:** Minjie Wang\*, Quan Gan\*, David Wipf, Zhenkun Cai, Ning Li, Jianheng Tang, Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, **Yanbo Wang**, Jiahang Li, Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang, Christos Faloutsos, Zheng Zhang
 - **Description:** This toolbox transforms any relational database tasks into graph-based tasks for predictive modeling.
 - **Link:** [Arxiv](https://arxiv.org/abs/2404.18209)
 
 ## An Empirical Study of Realized GNN Expressiveness
 
 - **Authors:** **Yanbo Wang**, Muhan Zhang
-- **Description:** This study investigates the capabilities of realized graph neural networks (GNNs), providing insights beyond the general GNN function space. Accepted at ICML 2024.
+- **Description:** This study investigates the capabilities of realized graph neural networks (GNNs), providing insights beyond the general GNN function space.
+- **Publishing:** Accepted at ICML 2024.
 - **Link:** [Arxiv](https://arxiv.org/abs/2304.07702)
 
 ## TwiBot-22: Towards Graph-Based Twitter Bot Detection
 
-- **Authors:** Shangbin Feng, Zhaoxuan Tan, Herun Wan, Ningnan Wang, Zilong Chen, Binchi Zhang, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, **Yanbo Wang**, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo
-- **Description:** A comprehensive benchmark for detecting Twitter bots using graph-based approaches. Accepted at NeurIPS 2022, Datasets and Benchmarks Track.
+- **Authors:** Shangbin Feng\*, Zhaoxuan Tan\*, Herun Wan\*, Ningnan Wang\*, Zilong Chen\*, Binchi Zhang\*, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, **Yanbo Wang**, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo
+- **Description:** A comprehensive benchmark for detecting Twitter bots using graph-based approaches.
+- **Publishing:** Accepted at NeurIPS 2022, Datasets and Benchmarks Track.
 - **Link:** [Twibot-22](https://twibot22.github.io/)
