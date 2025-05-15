@@ -43,6 +43,19 @@ redirect_from:
 
 # Publications
 
+## Griffin: Towards a Graph-Centric Relational Database Foundation Model
+
+- **Authors:** **Yanbo Wang**, Xiyuan Wang, Quan Gan, Minjie Wang, Qibin Yang, David Wipf, Muhan Zhang
+- **Description:** This paper introduces Griffin, a novel graph-based foundation model that successfully tackles complex relational databases, showing strong predictive performance and transfer learning through its unified data handling, specialized graph neural network, and effective multi-stage pretraining.
+- **Publishing:** Accepted at ICML 2025.
+- **Link:** [Arxiv](https://arxiv.org/abs/2505.05568)
+
+## Reconsidering the Performance of GAE in Link Prediction
+
+- **Authors:** Weishuo Ma, **Yanbo Wang**, Xiyuan Wang, Muhan Zhang
+- **Description:** This paper reevaluates the performance of Graph Autoencoders for link prediction, showing that with proper hyperparameter tuning, orthogonal embeddings, and linear propagation, a simple GAE can match SOTA GNNs in accuracy while being more efficient.
+- **Link:** [Arxiv](https://arxiv.org/abs/2411.03845)
+
 ## Efficient Neural Common Neighbor for Temporal Graph Link Prediction
 
 - **Authors:** Xiaohui Zhang\*, **Yanbo Wang\***, Xiyuan Wang, Muhan Zhang
@@ -53,6 +66,7 @@ redirect_from:
 
 - **Authors:** Minjie Wang\*, Quan Gan\*, David Wipf, Zhenkun Cai, Ning Li, Jianheng Tang, Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, **Yanbo Wang**, Jiahang Li, Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang, Christos Faloutsos, Zheng Zhang
 - **Description:** This toolbox transforms any relational database tasks into graph-based tasks for predictive modeling.
+- **Publishing:** Accepted at NeurIPS 2024, Datasets and Benchmarks Track.
 - **Link:** [Arxiv](https://arxiv.org/abs/2404.18209)
 
 ## An Empirical Study of Realized GNN Expressiveness
