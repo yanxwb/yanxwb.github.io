@@ -43,7 +43,7 @@ redirect_from:
 
 # Publications
 
-## Reconsidering the Performance of GAE in Link Prediction [CIKM 2025 Oral]
+## Reconsidering the Performance of GAE in Link Prediction [CIKM 2025 Best Full Paper]
 
 - **Authors:** Weishuo Ma, **Yanbo Wang**, Xiyuan Wang, Muhan Zhang
 - **Description:** This paper reevaluates the performance of Graph Autoencoders for link prediction, showing that with proper hyperparameter tuning, orthogonal embeddings, and linear propagation, a simple GAE can match SOTA GNNs in accuracy while being more efficient.
