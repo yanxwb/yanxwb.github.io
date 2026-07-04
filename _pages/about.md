@@ -10,7 +10,7 @@ redirect_from:
   - /resume
 ---
 
-Hello, I'm Yanbo Wang, a dedicated Ph.D. student in Computer Science and Technology at Peking University, fortunate to be guided by Prof. [Muhan Zhang](https://muhanzhang.github.io/).
+Hello, I'm Yanbo Wang (王彦博), a dedicated Ph.D. student in Computer Science and Technology at Peking University, fortunate to be guided by Prof. [Muhan Zhang](https://muhanzhang.github.io/).
 
 My academic journey began when I joined Xi'an Jiaotong University through the Honors Youth Program, where I earned my Bachelor's degree in Computer Science. During my undergraduate years, I had the privilege of being part of the [Collegiate Programming Contest school team](https://board.xjtuicpc.com/) and [LUD](https://luoundergradxjtu.github.io/) at Xi'an Jiaotong University, which greatly enriched my experience.
 
